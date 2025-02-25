@@ -1,2 +1,2 @@
-# CV
-Сайт-визитка на HTML и CSS
+# -HTML-CSS
+Сайт визитка на HTML и CSS
